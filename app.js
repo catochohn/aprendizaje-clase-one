@@ -24,3 +24,5 @@ toggleBtn.addEventListener("click", () => {
 function saludar() {
   alert("¡Bienvenido! 🚀 Gracias por probar este sistema.");
 }
+
+// revisando el codigo del app.js
