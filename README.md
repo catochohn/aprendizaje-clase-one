@@ -3,4 +3,4 @@
 
 ```npm install React```
 
-- agregando datos de prueba
+agregando datos de prueba
