@@ -1,6 +1,8 @@
-<h1>hola que tal probando</h1>
-- iniciando hacer texto en md
+<h1>Sistema de pruebas</h1>
+- estado del proyecto en: construccion
+
+para eejecutar el sistema, debe agregar
 
 ```npm install React```
 
-agregando datos de prueba
+agregando datos: index.html del proyecto.
