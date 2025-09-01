@@ -25,3 +25,5 @@ sistema-prueba/
 ├── styles.css      # Estilos (incluye soporte para dark mode)
 ├── script.js       # Lógica en JavaScript
 └── README.md       # Documentación del proyecto
+```
+Revisando colaboraciones.
