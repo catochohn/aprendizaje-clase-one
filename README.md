@@ -2,3 +2,5 @@
 - iniciando hacer texto en md
 
 ```npm install React```
+
+- agregando datos de prueba
